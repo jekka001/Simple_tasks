@@ -1,0 +1,11 @@
+package controller;
+
+public enum Operation {
+    EXIT,
+    ALL_AREA_OF_SHAPE,
+    ALL_AREA_OF_TRIANGLE,
+    ALL_AREA_OF_RECTANGLE,
+    ALL_AREA_OF_CIRCLE,
+    SORTED_SHAPES_BY_AREA,
+    SORTED_SHAPES_BY_COLOR
+}
